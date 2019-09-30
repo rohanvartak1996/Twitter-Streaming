@@ -1,0 +1,4 @@
+CONSUMER_KEY: # Your twitter Consumer Key
+CONSUMER_SECRET: # Your twitter Consumer Secret Key
+ACCESS_TOKEN: # Your twitter Access Token
+ACCESS_TOKEN_SECRET: # Your twitter Access Token Secret
